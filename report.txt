@@ -1,0 +1,45 @@
+-----
+~Application info:
+ID:     A01
+Name:   Uniwa office
+min.OS: 1.0
+Price:  0
+
+~Developer profile:
+ID:    01
+Name:  Timothy
+Email: cs171012@yes.gr
+
+~User reviews:
+Username: user1
+Rating:   4.3
+Review:   What a GREAT app, i just wish it made me toast.
+-
+Username: user3
+Rating:   3.7
+Review:   Could be better.
+
+This app supports the following file types:
+Eclass_pdf
+Eclass_doc
+-----
+-----
+~Application info:
+ID:     G01
+Name:   Pass the class!
+min.OS: 2.0
+Price:  4.99
+
+~Developer profile:
+ID:    02
+Name:  Manos
+Email: cs171049@yes.gr
+
+~User reviews:
+Username: user2
+Rating:   4.5
+Review:   I love this app, but nobody can be perfect.
+
+Category: FPS
+Internet connection required
+-----

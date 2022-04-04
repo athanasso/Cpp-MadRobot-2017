@@ -1,0 +1,3 @@
+Application,1234,Instagram,Android_4,4321,Instagram,android-support@instagram.com,2,Timo,3.5,it has bugs,Manos,5,Awesome,4.2,3,jpg,png,gif
+Game,5678,Minecraft,Android_5,8765,Mojang,android-help@mojang.com,2,Leonard,5,OMG I LOVE THIS,Hemanuel,3,its ok i guess,0,Sandbox,1
+Game,9012,Adventure Game,Android_9,2109,Giakoumettis,chgiak@yes.gr,1,Hacker,4.9,Fun game i hacked it,0.0,Adventure,0
